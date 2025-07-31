@@ -50,11 +50,6 @@ The **MediSync** application is a full-stack doctor appointment booking system w
 
 ## 🔗 Live Project
 
-**Live Demo**: [AppointDoc](https://your-live-link.com)
-
-
-## 🔗 Live Project
-
 **Live Demo**: [MediSync](https://appoint-doc.vercel.app/)
 
 ---
