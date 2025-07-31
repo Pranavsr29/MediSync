@@ -1,15 +1,39 @@
-# MediSync
+# MediSync – Doctor Appointment Booking Platform
 This is a professional-grade MERN (MongoDB, Express, React, Node.js) stack web application for booking doctor appointments. Patients can browse through a list of doctors and their availability and book an appointment with their preferred doctor. Doctors can view their schedule, manage their availability, and approve/cancel appointments.
 
 ## 🩺 Usage
 
-The **MediSync** application allows doctors to manage their appointments with ease. Doctors can create new appointments, view existing ones, and approve or reject appointment requests.
+The **MediSync** application is a full-stack doctor appointment booking system where patients can book appointments with available doctors, and doctors can manage their schedule seamlessly.
 
-### 👤 For Doctors:
-- **Create Appointment**: Click the **"New Appointment"** button on a doctor's card to open a form and input date and time details.
-- **View Appointments**: Navigate to the **"Appointments"** tab on the sidebar to see a list of scheduled appointments sorted by date and time.
-- **Approve/Reject Appointments**: Click on any listed appointment to change its pending status.
-- **Update Availability**: Go to the **Profile** page and edit the available time slots using the form provided.
+---
+
+## 👥 What Users Can Do
+
+### 🧑‍⚕️ Doctors:
+- **Set Availability**: Define available time slots through the profile page.
+- **Manage Appointments**:
+  - View all upcoming and past appointments.
+  - Approve or reject pending appointment requests.
+- **Create Appointments** manually if needed.
+
+### 🧑‍💼 Patients:
+- **Browse Doctors**: View a list of registered doctors along with their availability.
+- **Book Appointments**: Choose a doctor and select from available time slots.
+- **Track Appointments**: View status of appointment requests (pending, approved, rejected).
+
+---
+
+## ⚙️ How It Works
+
+### For Doctors:
+- Click **"New Appointment"** to create a new booking manually.
+- Use the **"Appointments"** tab on the sidebar to view and manage all appointments.
+- Update your time slots via the **Profile** page by editing your start and end time.
+
+### For Patients:
+- Select a doctor from the main page.
+- Click **"Book Appointment"** and choose a preferred date and time.
+- Check the status of your requests anytime.
 
 ---
 
@@ -26,7 +50,12 @@ The **MediSync** application allows doctors to manage their appointments with ea
 
 ## 🔗 Live Project
 
-**Live Demo**: [MediSync](https://your-live-link.com)
+**Live Demo**: [AppointDoc](https://your-live-link.com)
+
+
+## 🔗 Live Project
+
+**Live Demo**: [MediSync](https://appoint-doc.vercel.app/)
 
 ---
 
